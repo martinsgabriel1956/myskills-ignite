@@ -7,7 +7,6 @@ export const SkillCard = ({ skill }) => {
   return (
     <TouchableOpacity
       style={styles.buttonSkill}
-      key={skill}
     >
       <Text
         style={styles.textSkill}
