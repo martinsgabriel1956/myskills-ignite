@@ -31,5 +31,17 @@ export const styles = StyleSheet.create({
     color: '#fff',
     fontSize: 17,
     fontWeight: 'bold'
+  },
+  buttonSkill: {
+    backgroundColor: '#1F1E25',
+    padding: 15,
+    borderRadius: 50,
+    alignItems: 'center',
+    marginBottom: 20
+  },
+  textSkill: {
+    color: '#fff',
+    fontSize: 22,
+    fontWeight: 'bold',
   }
 })
